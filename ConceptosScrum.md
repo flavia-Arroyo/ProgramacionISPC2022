@@ -7,7 +7,10 @@
                                    Es una reunión que se realiza a comienzo de cada Sprint donde participa el equipo Scrum al completo, pero no participan los stakeholders. En el Sprint Planning se inspeccionan el Product Backlog, los acuerdos de la Retrospectiva, la capacidad y la Definition of Done y se adaptan el Sprint Backlog, Sprint Goal y el plan para poder alcanzar ese Sprint Goal. El Sprint Planning se divide en dos partes. En la primera parte de la reunión se trata Qué se va a hacer en el siguiente Sprint y, en la segunda parte, se discute el Cómo. 
                                    
     2 - Daily Scrum a diario: 
-                             es una reunión diaria de 15 minutos en la que participa exclusivamente el Development Team. En esta reunión todas y cada una de las personas del Development Team responden a las siguientes preguntas:¿Qué hice ayer para contribuir al Sprint Goal? ¿Qué voy a hacer hoy para contribuir al Sprint Goal?¿Tengo algún impedimento que me impida entregar?
+                             es una reunión diaria de 15 minutos en la que participa exclusivamente el Development Team. En esta reunión todas y cada una de las personas del Development Team responden a las siguientes preguntas:
+                             ¿Qué hice ayer para contribuir al Sprint Goal?
+                             ¿Qué voy a hacer hoy para contribuir al Sprint Goal?
+                             ¿Tengo algún impedimento que me impida entregar?
     
     
     
