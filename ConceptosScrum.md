@@ -1,27 +1,22 @@
 # ProgramacionISPC2022
 
-# LAS CEREMONIAS DEl SCRUM:
-    Scrum define 5 ceremonias principales Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective y Sprint Grooming o Refinement,
-    para cumplir con el control de sus procesos.
-    1 - El Sprint Planning al comienzo del Sprint: 
-                                   Es una reunión que se realiza a comienzo de cada Sprint donde participa el equipo Scrum al completo, pero no participan los stakeholders. En el Sprint Planning se inspeccionan el Product Backlog, los acuerdos de la Retrospectiva, la capacidad y la Definition of Done y se adaptan el Sprint Backlog, Sprint Goal y el plan para poder alcanzar ese Sprint Goal. El Sprint Planning se divide en dos partes. En la primera parte de la reunión se trata Qué se va a hacer en el siguiente Sprint y, en la segunda parte, se discute el Cómo. 
-                                   
-    2 - Daily Scrum a diario: 
-                             es una reunión diaria de 15 minutos en la que participa exclusivamente el Development Team. En esta reunión todas y cada una de las personas del Development Team responden a las siguientes preguntas:
-                             ¿Qué hice ayer para contribuir al Sprint Goal?
-                             ¿Qué voy a hacer hoy para contribuir al Sprint Goal?
-                             ¿Tengo algún impedimento que me impida entregar?
-    
-    
-    
-    3 - Un Sprint Review al final del Sprint para inspeccionar el incremento realizado.
-    4 - Y, finalmente, una Retrospectiva para inspeccionar el equipo y levantar mejoras que se apliquen en el siguiente Sprint.
-    5 - Adicionalmente se ha incorporado también una reunión de Grooming o Refinement, que sirve para, dentro del Sprint, afinar y aclarar ciertas 
-        historias de usuario que pudieron quedar pendientes durante el Sprint Planning.
-        
-    
-        
-    En Scrum, los proyectos se financian por cada Sprint y es el product owner quien decide donde y a que dedicar los recursos.  Sprint es un contenedor para el resto de los eventos de Scrum. El Sprint es continuo, permite la transpariencia, asi como inspeccionar y adaptar los otros eventos de Scrum.
+# LAS CEREMONIAS DEL SCRUM:
+
+![ceremonias](ceremonias-scrum.png)
+
+*Las ceremonias que se realizan a lo largo del proyecto:*
+
+* **Sprint Planning Meeting: (Reunión de planificacion del sprint)**  Se produce al iniciar cada Sprint y tiene por objetivo decidir que se va a realizar en el Sprint
+
+___
+* **Daily Scrum Meeting(reunión periodica)** Se produce diariamente y tiene un maximo de 20 min. de duración. Tiene por objeto tratar qué es lo que se hizo, qué se va a hacer y qué problemas se han encontrado, esto a fin de encontrar soluciones diarias
+
+___
+* **Sprint Review Meeting ( reunion de revision del Sprint)** Se produce al finalizar el Sprint y tiene por objeto mostrar qué es lo que se ha completado y qué no. Debe estar presente el Product Owner 
+___
+* **Sprint Retrospective Meeting(Reunión de retrospectiva del Sprint)** Se produce también al finalizar el sprint y tiene por objeto documentar qué ha funcionado y qué no ha funcionado en el Sprint. La idea de dicha reunión es centrar al equipo en lo que salió bien y en lo que debe mejorar para la proxima interación.  
+___
+
 
 
    
