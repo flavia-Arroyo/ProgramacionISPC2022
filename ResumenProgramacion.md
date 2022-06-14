@@ -84,6 +84,102 @@ morales, lo que es bueno y malo
 
 ### D- PYTHON
 
+Introducción a Python
+Python es un lenguaje de programación de alto nivel cuya máxima es la legibilidad del código. Fue creado por Guido van Rossum y lanzado en 1991. Las principales características de Python son las siguientes
+•	Es multiplataforma: Se puede encontrar un intérprete de Python para los principales sistemas operativos: Windows, Linux y Mac OS. Además, se puede reutilizar el mismo código en cada una de las plataformas.
+•	Es dinámicamente tipado: Es decir, el tipo de las variables se decide en tiempo de ejecución.
+•	Es fuertemente tipado: No se puede usar una variable en un contexto fuera de su tipo. Si se quisiera, habría que hacer una conversión de tipos.
+•	Es interpretado: El código no se compila a lenguaje máquina.
+
+Se utiliza para:
+•	Desarrollo web (Lado del servidor)
+•	Desarrollo de Software
+•	Matemáticas
+•	Secuencia de Comandos del Sistema
+Podemos hacer ciertas cosas con el lenguaje como:
+En Python se puede usar en un servidor para crear aplicaciones web. Se puede usar junto con el software para crear flujos de trabajo. Puede conectarse a sistemas de bases de datos. También puede leer y modificar archivos. Puede usarse para manejar big data y realizar operaciones matemáticas complejas. También se puede utilizar para la creación rápida de prototipos o para el desarrollo de software listo para la producción.
+Es posible escribir Python en un entorno de desarrollo integrado, como Thonny, Pycharm, Netbeans, Eclipse, Visual studio Code, Sublime Text, Google Colaboraty, que son particularmente útiles cuando se administran colecciones más grandes de archivos de Python.
+
+Tipos de Datos
+Esta se divide en 2 grupos, tenemos los básicos y complejos
+Los tipos de datos básicos en Python son:
+Número Entero (int)
+Este tipo de dato se corresponde con números enteros, es decir, sin parte decimal.
+entero = 80
+
+Número Decimal (float)
+Este tipo de dato se corresponde con números reales con parte decimal. Cabe destacar que el separador decimal en Python es el punto (.) y no la coma (,).
+decimal = 6.14159
+
+Caracter (chr)
+Este tipo de dato se corresponde con un símbolo tipográfico, es decir, una letra, número, coma, espacio, signo de punutación, etc.
+caracter = 'Q'
+
+Cadena de Texto (str)
+Este tipo de datos se corresponde con una cadena de caracteres.
+cadena = 'Análisis Numérico'
+
+Booleano (bool)
+Este tipo de dato reconoce solamente dos valores: Verdadero (True) y Falso (False)
+booleano = True
+Los tipos de datos complejos en Python son:
+Listas
+Se trata de conjuntos ordenados de elementos, encerrados por corchetes y separados por comas. El orden comienza con el índice 0 para el primer lugar de la Lista. Pueden agruparse valores de distintos tipos de datos básicos, y es posible agregar, eliminar o modificar elementos de las listas en cualquier momento
+lista = [10,20,30,40]
+print(lista)
+print(lista[0])    415 12/29
+[10, 20, 30, 40]
+10
+
+
+lista[1] = 25
+print(lista)
+[10, 25, 30, 40]
+
+
+sublista = lista[1:3]
+print(lista)
+print(sublista)
+print(lista[:-1])
+[10, 25, 30, 40]
+[25, 30]
+[10, 25, 30]
+
+Tuplas
+Las Tuplas son básicamente Listas de elementos estáticas, es decir, que no pueden modificarse (decimos que las Tuplas son inmutables en Python). Para su definición, en lugar de corchetes se encierran valores separados por comas entre paréntesis.
+tupla = (6, 7, 8,9)
+print(tupla)
+print(tupla[0])
+(6, 7, 8, 9)
+6
+
+subtupla = tupla[1:3]
+print(tupla)
+print(subtupla)
+print(tupla[:-1])
+(6, 7, 8, 9)
+(7, 8)
+(6, 7, 8)
+
+La similitud entre Listas y Tuplas es tan explícita que se puede bloquear una lista transformándola en una tupla con la función tuple() o bien desbloquear una tupla para transformarla en una lista con la función list()
+print(tuple(lista))
+print(list(tupla))
+(10, 25, 30, 40)
+[6, 7, 8, 9]
+
+Diccionarios
+En los Diccionarios cada elemento se compone de un par clave-valor, y para su definición es necesario encerrar los elementos entre llaves. Es posible acceder a un valor utilizando su clave, pero no al revés. Por este motivo, no se pueden repetir las claves para elementos distintos, pero sí es posible agregar, eliminar o modificar valores
+
+diccionario = {"Codigo":7512,"Materia":"Análisis Numérico I"}
+print(diccionario)
+{'Codigo': 7512, 'Materia': 'Análisis Numérico I'}
+
+print(diccionario["Codigo"])
+print(diccionario["Materia"])
+7512
+Análisis Numérico I
+
+
 
 
 
