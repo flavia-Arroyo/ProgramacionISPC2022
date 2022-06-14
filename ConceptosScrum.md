@@ -23,6 +23,33 @@ ___
 
 # ARTEFACTOS 
 
+![artefactos](artefactos_de_scrum.png)
+
+Los denominados Artefactos son aquellos elementos fisicos que se producen como resultado de la aplicacion de Scrum
+
+**Los tres principales Artefactos son**
+
+**1.Product Backlog** 
+Es un inventario que contiene cualquier tipode trabajo que haya que hacer en el producto. **Es la principal fuente de información sobre el producto en Scrum**, ya que contiene todos los requerimientos que necesitamos implementar en el producto. **Es gestionado en exclusiva por el Product Owner**, siendo su principal función la de priorizar aquellos elementos que tienen más valor en cada etapa y detallarlos para que el equipo de desarrollo sea capaz de valorarlos y ejecutarlos. 
+
+
+Contiene distintos elementos:
+* Funcionalidades
+* Bugs
+* Historia de usuario: una forma de expresar elementos de un Product Backlog. Para obtener el máximo valor de una historia es necesario expresarlas desde el punto de vista del usuario
+
+
+**2. Sprint BackLog** Lista de elementos en los que se trabaja durante la etapa de Sprint.
+
+Todo el trabajo que el Development Team haya seleccionado para hacer durante el siguiente Sprint pasa al Sprint Backlog. **Este artefacto es un elemento para visualizar el trabajo a realizar durante cada Sprint y está gestionado por el equipo de desarrollo**. Su propósito es mantener la transparencia dentro del desarrollo, actualizándolo durante toda la iteración especialmente a través de los daily Scrums.
+Este artefacto **permite entender cuál es la evolución del trabajo durante el Sprint, así como hacer un análisis de riesgos**, permite analizar hasta donde se ha cumplido el objetivo y que se podría eliminar. De esta forma, maximizamos el retorno de la inversión en desarrollo.
+
+
+**3. Incremento**
+Un Incremento es el resultado del Sprint, es la suma de todas las tareas, casos de uso, historias de usuario y cualquier elemento que se haya desarrollado durante el Sprint y que será puesto a disposición del usuario final en forma de software, aportando un valor de negocio al producto que se está desarrollando.
+
+
+
 
 
 
