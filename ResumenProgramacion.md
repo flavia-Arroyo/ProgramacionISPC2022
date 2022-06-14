@@ -13,7 +13,79 @@
 
 ### B1- Metodologia Scrum
 ### B2- GITHUB- VSC
+![gitgithub](git_github.jpg)
+
+Es una plataforma de social coding GitHub dónde puedes publicar repositorios de código remotos que pueden trabajarse con el sistema de control de versiones Git, dado que está integrado.
+Este sistema ofrece la posibilidad de colaborar en proyectos como publicar proyectos propios. 
+
+**Crear Cuenta** 
+
+* Acceder a https://github.com/ y luego, clic en el botón Sign up. 
+
+* Seleccionar el plan personal gratuito con repositorio público y se siguen  las instrucciones. La verificación es  mediante correo electrónico.
+
+* Crear un proyecto en la opción **create a proyect**. Incluir nombre del repositorio y seleccionar la opcion Create repository.
+
+**Crear Repositorio**
+Accede a la cuenta de github y luego, se hace clic en el menú ubicado en la parte superio y seleccionar "new repository" del menu conceptual y completar el formulario. 
+
+**Clonar el repositorio en Visual Studio Code**
+Dentro de Git debemos definir nuestro usuario e email de la siguiente manera:
+
+$git config --global user.name "tunombre"
+
+$git config --global user.email tuemail@dominio.com
+
+Desde **visual Studio Code** ir al menu "view" seleccionamos "comand palete". En ese punto buscamos "git: Clone".
+La herramienta nos pedira la ruta y ahi es donde tenemos que pegar la URL del repositorio que hemos creado en Github. Antes de hacer un commit debemos instalar la extensión "github pull request" desde el menú view/terminal. Además hay que autorizar nuestra cuenta github en Visual Studio Code.Para ello, en la barra inferior de Visual Studio y presionar el icono de git e introductor la cuenta github. 
+
+Desde la pestaña de Git podemos hacer el "commit"de los ficheros. En primer lugar, incluiremos los ficheron a los que queremos hacer stage pulsando el "+" o "todos". 
+Para hacer el push hay dos maneras:
+* pulsar en la parte derecha de la barra de git y elegir la opcion push o pull.
+* pulsar en la parte inferior sobre sincronizar 
+
+Para solucionar errores en command"git.clone" not found debemos instalar GIT e indicar por linea de comandos nuestro usuario e email:
+
+$git config --global user.name "Nombre"
+
+$git config --global user.email tumail@dominio.com
+
+
+
+
 ### B3- GIT y GITHUB
+**Sistema de Control de Versiones**
+___
+Git es un **sistema de control de versiones(vsc)** distribuido gratuito y de código abierto diseñado para manejar desde proyectos pequeños a muy grandes, con velocidad y eficiencia.
+* Nos permite conocer los cambios realizados en los programas o software que vamos desarrollando con el paso del tiempo. Administrar las distintas versiones. 
+* Nace como necesidad de control para Kernel de Linux
+* Coordinar el trabajo entre los diferentes desarrolladores del equipo 
+* Repositorios local y remotos.
+
+
+![versiones](versionesgit.jpg)
+
+**git** es un sistema de control de versiones distribuido(DVSC en ingles)
+
+**VENTAJAS**
+* Sistema distribuido, que permite el trabajo incluso son conexión.
+* Super rápido y ligero, optimizado para hacer operaciones de control muy rápidas.
+* Crear ramas y mezclarlas poco propenso a problemas.
+* La integridad de la información está asegurada gracias a su modelo de almacenamiento, que permite predecir este tipo de problemas.
+* Permite flujos de trabajo muy flexibles.
+* El concepto de área de preparación o staging permite versionar los cambios como nos convenga, no todo o nada. 
+* Operaciones Locales 
+* Copias instantáneas
+
+**Instalacion git**
+___
+[InstacionGit.com](https://www.youtube.com/watch?v=7qzV04C5S-k "Como instalar git")
+
+
+
+
+
+
 ### B4- GIT
 
 
