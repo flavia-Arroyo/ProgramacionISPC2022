@@ -87,7 +87,31 @@ ___
 
 
 ### B4- GIT
+Git es una herramienta que realiza una función del control de versiones de código de forma distribuida, de la que destacamos varias características:
+* Es muy potente
+* Fue diseñada por Linus Torvalds
+* No depende de un repositorio central
+* Es software libre
+* Con ella podemos mantener un historial completo de versiones
+* Podemos movernos, como si tuviéramos un puntero en el tiempo, por todas las revisiones de código y desplazarnos una manera muy ágil.
+* Tiene un sistema de trabajo con ramas que lo hace especialmente potente
+* En cuanto a la funcionalidad de las ramas, las mismas están destinadas a provocar proyectos divergentes de un proyecto principal, para hacer experimentos o para probar nuevas funcionalidades.
+* Las ramas pueden tener una línea de progreso diferente de la rama principal donde está el core de nuestro desarrollo. En algún momento podemos llegar a probar algunas de esas mejoras o cambios en el código y hacer una fusión a nuestro proyecto principal, ya que todo esto lo maneja Git de una forma muy eficiente.
 
+**Secciones principales de un proyecto Git**
+* Confirmado: tenemos un fichero con el que hemos estado trabajando, hemos aprobado todos sus cambios y va en una nueva revisión, es decir, una especie de paquete dónde van todos los cambios.
+* Modificado: estamos trabajando en el directorio de trabajo (o working directory) y consideramos que ese cambio debe de ir en una revisión, en esa especie de paquete, para formar la revisión.
+* Preparado: hemos marcado un archivo para que vaya una revisión.
+![secciones](secciones-git.webp)
+
+Fundamentalmente, un proyecto Git se estructura en tres partes o tres cajas:
+
+* El área del working directory, que es dónde vamos a tener todos nuestros ficheros, dónde estamos trabajando constantemente.
+* El staging area, que es donde van los archivos que estamos modificando y que aceptamos para que vayan en una futura revisión.
+* El área de commit o el git directory, que es dónde se almacenan la revisión completa. A lo largo de nuestro curso de Git, se explicará cómo podemos movernos a lo largo de esos tres estados, para qué sirven y por qué suponen una ventaja.
+
+**Resumen**
+![resumen](resumen.webp)
 
 
 ## C- Ética y Deontología Profesional
