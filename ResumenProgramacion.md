@@ -308,6 +308,31 @@ morales, lo que es bueno y malo
 
 ### C4- Dilema en las Redes Sociales 
 
+En el documental "El dilema de la redes sociales", describe las herramientas que se crean para 
+mantener a los usuarios "distraídos" mientras los anunciantes ganan dinero.
+Una de las más claras sería el desplazamiento automático, una estrategia desarrollada para
+que la experiencia de red no tenga fin y el usuario permanezca conectado.
+Las notificaciones, a su vez, se describen como una de las herramientas más eficaces para
+atraer a los que están fuera y mantener a los que ya están conectados.
+
+**Seguridad vs Inseguridad**
+La película que las redes están directamente relacionadas con el aumento de casos de depresión
+y ansiedad, especialmente entre niños y adolescentes,que caen en depresión después de recibir
+una crítica sobre una característica física.Según datos oficiales, el suicidio se ha convertido
+en la segunda causa de muerte entre los niños en edad escolar y los jóvenes.
+
+**Consejos para protegerse**
+*1-Deshabilitar las notificaciones, para acceder la red social cuando uno lo desee.
+*2-Preferiblemente, haz las búsquedas tú mismo de lo que te interesa en contenido y videos.
+*3-Sigue a personas o páginas con las que no estás de acuerdo.
+*4-Desconecta una hora antes de acostarse. Deja tu teléfono, tableta y computadora
+portátil en otra habitación y en modo avión.
+*5-Valora tus clics y tu tiempo. La forma en que te relacionas con una publicación vale
+"oro".
+
+
+
+
 
 ### D- PYTHON
 
@@ -320,7 +345,7 @@ Python es un lenguaje de programación de alto nivel cuya máxima es la legibili
 3) Es fuertemente tipado: No se puede usar una variable en un contexto fuera de su tipo. Si se quisiera, habría que hacer una conversión de tipos.
 4) Es interpretado: El código no se compila a lenguaje máquina.
 
-####D-2 Se utiliza para:
+#### D-2 Se utiliza para:
 
 * Desarrollo web (Lado del servidor)
 * Desarrollo de Software
