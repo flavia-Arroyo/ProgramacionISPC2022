@@ -202,6 +202,51 @@ Fundamentalmente, un proyecto Git se estructura en tres partes o tres cajas:
 
 ## C- Ética y Deontología Profesional
 ### C1. Introduccion
+La tecnología informática plantea nuevas situaciones y nuevos problemas y gran parte de
+estas nuevas situaciones y problemas son de una naturaleza ética
+
+La ética en la informática es una nueva disciplina que pretende abrirse campo dentro
+de las éticas aplicadas por lo cual encontramos varias definiciones.
+* La disciplina que analiza los problemas éticos que son creados por la
+tecnología de los ordenadores o también los que son transformados o agravados por la
+misma. 
+* El análisis de la naturaleza y el impacto social de la tecnología informática y la
+correspondiente formulación y justificación de políticas para un uso ético de dicha
+tecnología
+* La disciplina que identifica y analiza los impactos de las tecnologías de la información en los valores humanos y sociales. Estos valores
+afectados son: la salud, la riqueza, el trabajo, la libertad, la democracia, el conocimiento, la privacidad, la seguridad o la autorrealización personal.
+
+### *Objetivos de la EI*
+
+* Descubrir y articular dilemas éticos claves en informática.
+* Determinar en qué medida son agravados, transformados o creados por la tecnología
+informática.
+* Analizar y proponer un marco conceptual adecuado y formular principios de actuación
+para determinar qué hacer en las nuevas actividades ocasionadas por la informática en
+las que no se perciben con claridad líneas de actuación.
+* Utilizar la teoría ética para clarificar los dilemas éticos y detectar errores en el
+razonamiento ético.
+* Proponer un marco conceptual adecuado para entender los dilemas éticos que origina
+la informática y además establecer una guía cuando no existe reglamentación de dar
+uso a Internet
+
+### *Contenidos de la EI*
+
+* **La Utilización de la Información:** Los problemas que aparecen en esta área son los relativos al uso no autorizado de los servicios
+informáticos o de la información contenida en ellos. Se plantean problemas de invasión de la
+privacidad, de falta de confidencialidad en la información, sobre todo de datos sensibles. Los
+esfuerzos por proteger la integridad y confidencialidad de la información chocan con la
+necesidad de información de las entidades públicas y privadas y los entornos académicos o
+de investigación, es decir, con su derecho a la libertad de información.
+* **La propiedad de los bienes informáticos:** El software informático es un bien que tiene características específicas. Los programas de ordenador supone un tipo de propiedad que si bien no encaja fácilmente en los conceptos de propiedad de otros tipos de bienes. Parece que el problema podría subsumirse y reducirse a la protección de la propiedad intelectual . 
+* **Lo informático como instrumento de actos potencialmente dañinos:** Las personas que proveen servicios informáticos y los que utilizan ordenadores, datos y programas han de ser responsables de la integridad y conveniencia de los resultados de sus acciones
+* **La Inteligencia artificial:** La EI toma en consideración de las visiones antropomórficas sobre los ordenadores como máquinas pensantes o como productores de verdades absolutas e infalibles, "trata de analizar las implicaciones de la llamada inteligencia artificial, las redes neuronales o el papel que están llamados a jugar los sistemas expertos de un tipo u otro. Sin embargo, también plantean problemas éticos.
+
+### *La deontología informática*
+
+La deontología es la parte de la ética que trata sobre los deberes, especialmente relacionados con el ejercicio de una determinada profesión.
+Trata de la moral o ética profesional en el manejo del activo más importante que
+tienen las empresas, un bien cada vez más apreciado, que es la información.
 ### C2- Ética en la informática
 
 [![etica-informatica.png](https://i.postimg.cc/HxRMXQ7H/etica-informatica.png)](https://postimg.cc/DJQmK4gY)
