@@ -12,6 +12,92 @@
 ## B- Metodologías Agiles y Gestión de Proyectos
 
 ### B1- Metodologia Scrum
+Scrum es un framework que permite trabajar en una serie de interacciones en equipo. Las fases que definen y en las que se divide un proceso de SCRUM son las siguientes:
+
+• El quién y el qué: identifica los roles de cada uno de los miembros del equipo y define su responsabilidad en el proyecto.
+
+• El dónde y el cuándo: que representan el Sprint.
+
+• El por qué y el cómo: representan las herramientas que utilizan los miembros de Scrum.
+
+___
+
+### **Roles en Scrum:**
+
+
+El equipo de Scrum consiste en tres diferentes roles:
+
+El Product Owner es la “voz del cliente” y el responsable de desarrollar, mantener y priorizar las tareas en el backlog.
+
+El Scrum Master es responsable de asegurarse que el trabajo del equipo vaya bien siguiendo las bases de Scrum. Además, se encarga de remover cualquier obstáculo que pueda encontrar el equipo de desarrollo.
+
+Los Miembros del Equipo de desarrollo son los encargados de escribir y probar el código.
+
+___
+
+### **El Sprint**
+
+El Sprint es la unidad básica de trabajo para un equipo Scrum. Esta es la característica principal marca la diferencia entre Scrum y otros modelos para el desarrollo ágil. Es una simple iteración llevada a cabo por los miembros del equipo. Un equipo puede completar varios sprints durante el desarrollo del proyecto.
+
+Un Sprint inicia con un equipo que se compromete a realizar el trabajo y finaliza con la demostración de un entregable. El tiempo mínimo para un Sprint es de una semana y el máximo es de 4 semanas. Dentro del desarrollo de un Sprint se llevan a cabo ciertos eventos, estos reciben el nombre de Scrum Events o Eventos Scrum.
+___
+### **Herramientas Scrum**
+
+ *Backlog de Producto*
+
+Esto puede referirse a todo elemento que sea parte del proyecto: puede ser un bug, una referencia o parte de un requerimiento. Brindan información muy general del proyecto y muchas veces no son tomados como requerimientos oficiales.
+
+ *Historias de Usuario*
+
+Es un elemento especial del product Backlog. Se llaman historias porque en ellas se proporciona información sobre cómo debe ser el comportamiento del requerimiento que se está trabajando. Su función es proporcionar información directa del cliente en caso de existir algún cambio. Generalmente estos sí son tomados como requerimientos oficiales.
+
+ *Backlog del Sprint*
+
+Es el conjunto de elementos tomados del Product Backlog que fueron priorizados, medidos y aceptados en las reuniones de Sprint Planning. Estos, en conjunto con sus respectivos User Stories, forman oficialmente los requerimientos a elaborar en cada uno de los Sprints que tendrá el proyecto.
+
+ *El panel de Tareas*
+Este panel muestra las tareas que tienen asignadas los miembros del equipo. Esta tabla se divide en tres columnas que representan el estado de la actividad:
+
+* Por hacer.
+
+* Haciendo.
+
+* Terminado.
+
+Al inicio del Sprint todas están en la primer columna. Cuando una tarea pasa a la segunda columna, el Scrum Master y el Product Owner son notificados respecto a qué está haciendo cada miembro del equipo y cuánto tiempo lleva trabajando en dicha tarea. Al finalizarla, esta debe cambiarse a la última columna. Esto quiere decir que está listo para que QA haga las pruebas necesarias.
+
+___
+### **Fases de Scrum**
+
+ *1 - Planeación del Sprint*
+
+Todos los involucrados en el equipo se reúnen para planificar el Sprint. Durante este evento se decide qué requerimientos o tareas se le asignará a cada uno de los elementos del equipo. Cada integrante deberá asignar el tiempo que crea prudente para llevar a cabo sus requerimientos. De esta manera se define el tiempo de duración del Sprint.
+
+ *2 - Reunión de equipo de Scrum*
+
+A estas reuniones se les deberían dedicar máximo 15 minutos diarios, y deberían ser siempre en el mismo horario y lugar. En ellas, cada miembro del equipo deberá responder tres simples preguntas:
+
+* ¿Qué hiciste ayer?
+* ¿Qué tienes planeado hacer hoy?
+* ¿Qué obstáculos encontraste en el camino?
+
+Estas reuniones sirven para que todos los miembros del equipo se apoyen entre ellos. Si alguno de ellos tiene algún inconveniente que obligue a extender el encuentro, este debe tratarse más a fondo en una reunión enfocada en buscar la mejor solución para ello.
+
+ *3 - Refinamiento del Backlog*
+
+El Product Owner revisa cada uno de los elementos dentro del Product Backlog con el fin de esclarecer cualquier duda que pueda surgir por parte del equipo de desarrolladores. También sirve para volver a estimar el tiempo y esfuerzo dedicado a cada uno de los requerimientos.
+
+ *4 - Revisión del Sprint*
+
+Los miembros del equipo y los clientes se reúnen para mostrar el trabajo de desarrollo de software que se ha completado. Se hace una demostración de todos los requerimientos finalizados dentro del Sprint. En este punto no es necesario que todos los miembros del equipo hablen, pueden simplemente estar presentes, pero la presentación está a cargo del Scrum Master y el Product Owner.
+
+ *5 - Retrospectiva del Sprint*
+
+En este evento el Product Owner se reúne con todo su equipo de trabajo y su Scrum Master para hablar sobre lo ocurrido durante el Sprint. Los puntos principales a tratar en esta reunión son:
+
+* Qué se hizo mal durante el Sprint para poder mejorar el próximo.
+* Qué se hizo bien para seguir en la misma senda del éxito.
+* Qué inconvenientes se encontraron y no permitieron poder avanzar como se tenía planificado.
 ### B2- GITHUB- VSC
 ![gitgithub](git_github.jpg)
 
