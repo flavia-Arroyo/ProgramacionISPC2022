@@ -180,7 +180,7 @@ morales, lo que es bueno y malo
 
 ### D- PYTHON
 
-### Introducción a Python 
+### D-1 Introducción a Python 
 
 Python es un lenguaje de programación de alto nivel cuya máxima es la legibilidad del código. Fue creado por Guido van Rossum y lanzado en 1991. Las principales características de Python son las siguientes
 
@@ -189,14 +189,14 @@ Python es un lenguaje de programación de alto nivel cuya máxima es la legibili
 3) Es fuertemente tipado: No se puede usar una variable en un contexto fuera de su tipo. Si se quisiera, habría que hacer una conversión de tipos.
 4) Es interpretado: El código no se compila a lenguaje máquina.
 
-#### Se utiliza para:
+####D-2 Se utiliza para:
 
 * Desarrollo web (Lado del servidor)
 * Desarrollo de Software
 * Matemáticas
 * Secuencia de Comandos del Sistema
 
-#### Podemos hacer ciertas cosas con el lenguaje como:
+####  Podemos hacer ciertas cosas con el lenguaje como:
 
 En Python se puede usar en un servidor para crear aplicaciones web.
 Se puede usar junto con el software para crear flujos de trabajo. Puede conectarse a sistemas de bases de datos.
@@ -205,7 +205,7 @@ Se puede utilizar para la creación rápida de prototipos o para el desarrollo d
 
 Es posible escribir Python en un entorno de desarrollo integrado, como Thonny, Pycharm, Netbeans, Eclipse, Visual studio Code, Sublime Text, Google Colaboraty, que son particularmente útiles cuando se administran colecciones más grandes de archivos de Python.
 
-### Tipos de Datos
+### D-2 Tipos de Datos
 
 Esta se divide en 2 grupos, tenemos los básicos y complejos
 
@@ -246,7 +246,7 @@ Este tipo de dato reconoce solamente dos valores: Verdadero (True) y Falso (Fals
 booleano = True
 ```
 
-#### Los tipos de datos **complejos** en Python son:
+#### D-3 Los tipos de datos **complejos** en Python son:
 
 #### Listas
 Se trata de conjuntos ordenados de elementos, encerrados por corchetes y separados por comas. El orden comienza con el índice 0 para el primer lugar de la Lista. Pueden agruparse valores de distintos tipos de datos básicos, y es posible agregar, eliminar o modificar elementos de las listas en cualquier momento.
@@ -304,7 +304,7 @@ La similitud entre **Listas** y **Tuplas** es tan explícita que se puede bloque
     (10, 25, 30, 40)
     [6, 7, 8, 9]
 ```
-#### Diccionarios
+#### D-4 Diccionarios
 
 En los Diccionarios cada elemento se compone de un par clave-valor, y para su definición es necesario encerrar los elementos entre llaves. Es posible acceder a un valor utilizando su clave, pero no al revés. Por este motivo, no se pueden repetir las claves para elementos distintos, pero sí es posible agregar, eliminar o modificar valores
 
@@ -321,3 +321,112 @@ En los Diccionarios cada elemento se compone de un par clave-valor, y para su de
     7512
     Análisis Numérico I
 ```
+
+#### D-5 VALORES BOOLEANOS EJECUCION CONDICIONAL EN BUCLES PYTHON
+1. Los operadores de comparación (o también denominados operadores relacionales) se utilizan para comparar valores.
+
+**Ejemplo**
+```py
+x == y  # False
+x == z  # True
+```
+
+2. Cuando deseas ejecutar algún código solo si se cumple una determinada condición, puedes usar una sentencia condicional:
+
+**Una única sentencia if, por ejemplo:**
+```py
+x = 10
+
+if x == 10: # condición
+    print("x es igual a 10")  # Ejecutado si la condición es Verdadera.
+```
+
+**Una serie de sentencias if, por ejemplo:**
+```py
+x = 10
+
+if x > 5: # primera condición
+    print("x es mayor que 5")  # Ejecutado si la primera condición es Verdadera.
+
+if x < 10: # segunda condición
+    print("x is less than 10")  # Ejecutado si la segunda condición es Verdadera.
+
+if x == 10: # tercera condición
+    print("x is equal to 10")  # Ejecutado si la tercera condición es Verdadera.
+ ```
+ Cada sentencia if se prueba por separado.
+ 
+**Una sentencia de if-else, por ejemplo:**
+
+```py
+x = 10
+
+if x < 10:  # Condición
+    print("x es menor que 10")  # Ejecutado si la condición es Verdadera.
+
+else:
+    print("x es mayor o igual a 10")  # Ejecutado si la condición es Falsa.
+```
+
+**Una serie de sentencias if seguidas de un else, por ejemplo:**
+
+```py
+x = 10
+
+if x > 5:  # True
+    print("x > 5")
+
+if x > 8:  # True
+    print("x > 8")
+
+if x > 10:  # False
+    print("x > 10")
+
+else:
+    print("se ejecutará el else")
+```
+Cada if se prueba por separado. El cuerpo de else se ejecuta si el último if es False.
+
+**La sentencia if-elif-else, por ejemplo**
+
+```py
+x = 10
+
+if x == 10:  # True
+    print("x == 10")
+
+if x > 15:  # False
+    print("x > 15")
+
+elif x > 10:  # False
+    print("x > 10")
+
+elif x > 5:  # True
+    print("x > 5")
+
+else:
+    print("else no será ejecutado")
+```
+Si la condición para if es False, el programa verifica las condiciones de los bloques elif posteriores: el primer elif que sea True es el que se ejecuta. Si todas las condiciones son False, se ejecutará el bloque else.
+
+**Sentencias condicionales anidadas, ejemplo:**
+
+```py
+x = 10
+
+if x > 5:  # True
+    if x == 6:  # False
+        print("anidado: x == 6")
+    elif x == 10:  # True
+        print("anidado: x == 10")
+    else:
+        print("anidado: else")
+else:
+    print("else")
+
+```
+
+
+
+ 
+
